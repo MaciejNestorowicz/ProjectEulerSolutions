@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LargestProductInAGridTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-30T15:43:40" hostname="Roman-PC" time="0.004">
+  <properties/>
+  <testcase name="shouldReturnLargestProductInGrid" classname="LargestProductInAGridTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
